@@ -6,3 +6,5 @@ Excerices from _Programming in Lua, fourth edition_ (2016) by Roberto Ierusalims
 ## The Basics
 
 [1. Getting started](./01/ex.md)
+
+[2. Interlude: The Eight-Queen Puzzle](./02/ex.md)
